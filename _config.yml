@@ -28,6 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/88x88.png"
 enable_copy_code_button: true
 search: true
+locale: zh-CN
 lunr:
   search_within_pages: true 
 footer:
@@ -47,12 +48,11 @@ defaults:
       layout: single
       toc: true
       toc_sticky: true
-      sidebar:
-        nav: posts
 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+#remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-include-cache
