@@ -9,47 +9,34 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 posts:
-  - title: Getting Started
+  - title: Linux
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "IO多路复用"
+        url: /2024/02/15/1-IO多路复用.html
+      - title: "进程"
+        url: /2024/02/14/2-进程.html
+      - title: "进程间通信"
+        url: /2024/02/13/3-进程间通信.html
+      - title: "信号"
+        url: /2024/02/12/4-信号.html
 
-  - title: Customization
+  - title: 网络
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "TCP"
+        url: /2024/02/11/5-TCP.html
+      - title: "Socket"
+        url: /2024/02/10/6-Socket.html
 
-  - title: Content
+  - title: 项目相关
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "Git"
+        url: /2024/02/07/9-Git.html
+        title: "SQL"
+        url: /2024/02/06/10-SQL.html
+      - title: "C_API与事务"
+        url: /2024/02/05/11-C_API与事务.html
+      - title: "索引"
+        url: /2024/02/04/12-索引.html
+      - title: "SQL优化"
+        url: /2024/01/03/13-SQL优化.html
 
