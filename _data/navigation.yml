@@ -1,7 +1,7 @@
 # main links
 main:
-  -  title: ""
-     url: 
+  -  title: "分类"
+     url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -12,31 +12,38 @@ posts:
   - title: Linux
     children:
       - title: "IO多路复用"
-        url: /2024/02/15/1-IO多路复用.html
+        url: /linux/2024/02/15/1-IO多路复用.html
       - title: "进程"
-        url: /2024/02/14/2-进程.html
+        url: /linux/2024/02/14/2-进程.html
       - title: "进程间通信"
-        url: /2024/02/13/3-进程间通信.html
+        url: /linux/2024/02/13/3-进程间通信.html
       - title: "信号"
-        url: /2024/02/12/4-信号.html
+        url: /linux/2024/02/12/4-信号.html
 
   - title: 网络
     children:
       - title: "TCP"
-        url: /2024/02/11/5-TCP.html
+        url: /网络/2024/02/11/5-TCP.html
       - title: "Socket"
-        url: /2024/02/10/6-Socket.html
+        url: /网络/2024/02/10/6-Socket.html
 
   - title: 项目相关
-    children:
+    children: 
+      - title: "进程池"
+        url: /项目相关/2024/02/09/7-进程池.html
+      - title: "线程池"
+        url: /项目相关/2024/02/08/8-线程池.html
       - title: "Git"
-        url: /2024/02/07/9-Git.html
-        title: "SQL"
-        url: /2024/02/06/10-SQL.html
+        url: /项目相关/2024/02/07/9-Git.html      
+
+  - title: 数据库
+    children:
+      - title: "SQL"
+        url: /数据库/2024/02/06/10-SQL.html
       - title: "C_API与事务"
-        url: /2024/02/05/11-C_API与事务.html
+        url: /数据库/2024/02/05/11-C_API与事务.html
       - title: "索引"
-        url: /2024/02/04/12-索引.html
+        url: /数据库/2024/02/04/12-索引.html
       - title: "SQL优化"
-        url: /2024/01/03/13-SQL优化.html
+        url: /数据库/2024/01/03/13-SQL优化.html
 

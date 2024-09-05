@@ -30,6 +30,10 @@ enable_copy_code_button: true
 search: true
 search_full_content: true
 locale: zh-CN
+collections:
+  - LINUX
+  - 网络
+  - 项目相关
 
 lunr:
   search_within_pages: true 
