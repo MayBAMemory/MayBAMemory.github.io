@@ -1,6 +1,14 @@
-article.page {
-    float: left;
-    width: 100%;
+
+
+.page__footer-follow {
+  display: flex;
+  justify-content: space-between; /* 将两部分内容分别对齐左右 */
+  align-items: center; /* 垂直居中对齐 */
+}
+
+.footer-quote {
+  text-align: right;
+  margin-top: -10px;
 }
 /* Copyright comment */
 @import "minimal-mistakes/copyright";
