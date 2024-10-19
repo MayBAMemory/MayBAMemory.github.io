@@ -46,7 +46,7 @@ defaults:
       toc: true
       toc_sticky: true
       header:
-        overlay_image: /assets/images/blackmyth.jpg
+        overlay_image: /assets/images/731912.jpg
         show_overlay_excerpt: false
       sidebar:
         nav: "posts"
@@ -55,7 +55,7 @@ defaults:
 # Build settings
 #remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-include-cache
 
