@@ -46,4 +46,19 @@ posts:
         url: /数据库/2024/02/04/索引.html
       - title: "SQL优化"
         url: /数据库/2024/01/03/SQL优化.html
-
+  - title: C++
+    children:
+      - title: "C与C++差异"
+        url: /c++/2024/02/16/C与C++差异.html  
+      - title: "类与对象"
+        url: /c++/2024/02/17/类与对象.html
+      - title: "单例模式的释放"
+        url: /c++/2024/02/28/单例模式的释放.html
+      - title: "继承"
+        url: /c++/2024/03/05/继承.html
+      - title: "多态"
+        url: /c++/2024/03/08/多态.html
+      - title: "STL"
+        url: /c++/2024/03/09/STL.html
+      - title:  
+        url: 
